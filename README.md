@@ -3,6 +3,8 @@ AREA15 locker rental system utilized by customers to rent lockers for their belo
 
 Technologies used: Next.js, Netlify, Electron.js, AWS, Strapi, Javascript/TypeScript, HTML, css, APIs (Stripe, Hubspot, Ticketure, Strapi, AWS, Netlify)
 
+Videos and images below are on testing locker unit:
+
 Link to Demo Video 1: https://youtube.com/shorts/0V46fNn-vp4?feature=share
 Link to Demo Video 2: https://youtube.com/shorts/VTKFAk1z9qI?feature=share
 
